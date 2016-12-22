@@ -1,0 +1,14 @@
+E:\Practice\CompitetativeProject\CompitetativeProject.Util\bin\Debug\CompitetativeProject.Util.dll
+E:\Practice\CompitetativeProject\CompitetativeProject.Util\bin\Debug\CompitetativeProject.Util.pdb
+E:\Practice\CompitetativeProject\CompitetativeProject.Util\bin\Debug\log4net.dll
+E:\Practice\CompitetativeProject\CompitetativeProject.Util\bin\Debug\log4net.xml
+E:\Practice\CompitetativeProject\CompitetativeProject.Util\obj\Debug\CompitetativeProject.Util.csprojResolveAssemblyReference.cache
+E:\Practice\CompitetativeProject\CompitetativeProject.Util\obj\Debug\CompitetativeProject.Util.dll
+E:\Practice\CompitetativeProject\CompitetativeProject.Util\obj\Debug\CompitetativeProject.Util.pdb
+D:\Nikita\DemoProjects\CompitetativeProject\CompitetativeProject\CompitetativeProject.Util\bin\Debug\CompitetativeProject.Util.dll
+D:\Nikita\DemoProjects\CompitetativeProject\CompitetativeProject\CompitetativeProject.Util\bin\Debug\CompitetativeProject.Util.pdb
+D:\Nikita\DemoProjects\CompitetativeProject\CompitetativeProject\CompitetativeProject.Util\bin\Debug\log4net.dll
+D:\Nikita\DemoProjects\CompitetativeProject\CompitetativeProject\CompitetativeProject.Util\bin\Debug\log4net.xml
+D:\Nikita\DemoProjects\CompitetativeProject\CompitetativeProject\CompitetativeProject.Util\obj\Debug\CompitetativeProject.Util.csprojResolveAssemblyReference.cache
+D:\Nikita\DemoProjects\CompitetativeProject\CompitetativeProject\CompitetativeProject.Util\obj\Debug\CompitetativeProject.Util.dll
+D:\Nikita\DemoProjects\CompitetativeProject\CompitetativeProject\CompitetativeProject.Util\obj\Debug\CompitetativeProject.Util.pdb
