@@ -40,3 +40,17 @@ C:\Users\nikitashah\Downloads\Programs\CompitetativeProject\CompitetativeProject
 C:\Users\nikitashah\Downloads\Programs\CompitetativeProject\CompitetativeProject\CompitetativeProject\CompitetativeProject.DataRepository\obj\Debug\CompitetativeProject.DataRepository.csprojResolveAssemblyReference.cache
 C:\Users\nikitashah\Downloads\Programs\CompitetativeProject\CompitetativeProject\CompitetativeProject\CompitetativeProject.DataRepository\obj\Debug\CompitetativeProject.DataRepository.dll
 C:\Users\nikitashah\Downloads\Programs\CompitetativeProject\CompitetativeProject\CompitetativeProject\CompitetativeProject.DataRepository\obj\Debug\CompitetativeProject.DataRepository.pdb
+C:\Users\npatel\Documents\GitHub\CompitetativeProject\CompitetativeProject.DataRepository\bin\Debug\CompitetativeProject.DataRepository.dll.config
+C:\Users\npatel\Documents\GitHub\CompitetativeProject\CompitetativeProject.DataRepository\bin\Debug\CompitetativeProject.DataRepository.dll
+C:\Users\npatel\Documents\GitHub\CompitetativeProject\CompitetativeProject.DataRepository\bin\Debug\CompitetativeProject.DataRepository.pdb
+C:\Users\npatel\Documents\GitHub\CompitetativeProject\CompitetativeProject.DataRepository\bin\Debug\CompitetativeProject.Util.dll
+C:\Users\npatel\Documents\GitHub\CompitetativeProject\CompitetativeProject.DataRepository\bin\Debug\EntityFramework.dll
+C:\Users\npatel\Documents\GitHub\CompitetativeProject\CompitetativeProject.DataRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\npatel\Documents\GitHub\CompitetativeProject\CompitetativeProject.DataRepository\bin\Debug\log4net.dll
+C:\Users\npatel\Documents\GitHub\CompitetativeProject\CompitetativeProject.DataRepository\bin\Debug\CompitetativeProject.Util.pdb
+C:\Users\npatel\Documents\GitHub\CompitetativeProject\CompitetativeProject.DataRepository\bin\Debug\EntityFramework.xml
+C:\Users\npatel\Documents\GitHub\CompitetativeProject\CompitetativeProject.DataRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\npatel\Documents\GitHub\CompitetativeProject\CompitetativeProject.DataRepository\bin\Debug\log4net.xml
+C:\Users\npatel\Documents\GitHub\CompitetativeProject\CompitetativeProject.DataRepository\obj\Debug\CompitetativeProject.DataRepository.csprojResolveAssemblyReference.cache
+C:\Users\npatel\Documents\GitHub\CompitetativeProject\CompitetativeProject.DataRepository\obj\Debug\CompitetativeProject.DataRepository.dll
+C:\Users\npatel\Documents\GitHub\CompitetativeProject\CompitetativeProject.DataRepository\obj\Debug\CompitetativeProject.DataRepository.pdb

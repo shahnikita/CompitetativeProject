@@ -12,3 +12,10 @@ C:\Users\nikitashah\Downloads\Programs\CompitetativeProject\CompitetativeProject
 C:\Users\nikitashah\Downloads\Programs\CompitetativeProject\CompitetativeProject\CompitetativeProject\CompitetativeProject.Util\obj\Debug\CompitetativeProject.Util.csprojResolveAssemblyReference.cache
 C:\Users\nikitashah\Downloads\Programs\CompitetativeProject\CompitetativeProject\CompitetativeProject\CompitetativeProject.Util\obj\Debug\CompitetativeProject.Util.dll
 C:\Users\nikitashah\Downloads\Programs\CompitetativeProject\CompitetativeProject\CompitetativeProject\CompitetativeProject.Util\obj\Debug\CompitetativeProject.Util.pdb
+C:\Users\npatel\Documents\GitHub\CompitetativeProject\CompitetativeProject.Util\bin\Debug\CompitetativeProject.Util.dll
+C:\Users\npatel\Documents\GitHub\CompitetativeProject\CompitetativeProject.Util\bin\Debug\CompitetativeProject.Util.pdb
+C:\Users\npatel\Documents\GitHub\CompitetativeProject\CompitetativeProject.Util\bin\Debug\log4net.dll
+C:\Users\npatel\Documents\GitHub\CompitetativeProject\CompitetativeProject.Util\bin\Debug\log4net.xml
+C:\Users\npatel\Documents\GitHub\CompitetativeProject\CompitetativeProject.Util\obj\Debug\CompitetativeProject.Util.csprojResolveAssemblyReference.cache
+C:\Users\npatel\Documents\GitHub\CompitetativeProject\CompitetativeProject.Util\obj\Debug\CompitetativeProject.Util.dll
+C:\Users\npatel\Documents\GitHub\CompitetativeProject\CompitetativeProject.Util\obj\Debug\CompitetativeProject.Util.pdb
